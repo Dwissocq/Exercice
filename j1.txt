@@ -1,2 +1,50 @@
-Objectif Diplôme
+OBJECTIF DIPLOME :
+
+FRONT
 1. Maquette
+2. Développer interface statique
+3. Développer interface dynamique
+4. CMS Front
+
+BACK
+5. Créer une base de données
+6. Commennt communiquer entre appli et données
+7. Développer liens entre Front et les données
+8. Développer composants CMS
+
+----------------------------------------------
+
+GIT :
+
+git init : initialized empty git repository in C:.../.../.git = création nouveau dépôt
+
+git add <nom.ext> indexe les fichiers du répertoire et prépare le prochain commit
+
+git commit -m "exemple" : valider les changements réalisés
+
+git push : pousser les changements vers un répertoire
+
+git pull : importer la version
+
+git config --global user.email (ou user.name) <email ou nom>
+
+git clone : clôner
+
+git remote add exemple https://github.com/NOM/dosier.git
+git branch -M main
+git push -u exemple main
+(tout ça est un peu obscur, à creuser)
+
+git status
+
+cd exemple : descendre le répertoire exemple
+
+cd .. : remonter dans les dossiers
+
+----------------------------------------------
+
+NOTES :
+
+Méthode Pomodoro : cycles de 25 min, pause 5 min, puis nouvelle tâche
+Multitaches : nous ne le sommes pas vraiment ^^
+Icebreaking : que des gens cools !
